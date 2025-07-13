@@ -16,8 +16,8 @@ The main objective of this project was to build a binary text classification mod
   - Preprocess the message similarly to the training data
   - Return a list like containing the certainty score and whether the message is spam or 'ham'
  
-  ## Key skills developed
-  - Built a text classification model using deep learning
-  - Worked with work tokenization, embedding layers, and binary classification
-  - Understood span detection as a real-world NLP task
-  - Practiced deploying inference-ready functions for text inputs
+## Key skills developed
+- Built a text classification model using deep learning
+- Worked with work tokenization, embedding layers, and binary classification
+- Understood span detection as a real-world NLP task
+- Practiced deploying inference-ready functions for text inputs
